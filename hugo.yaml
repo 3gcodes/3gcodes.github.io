@@ -1,0 +1,16 @@
+baseURL: 'https://www.3gcodes.com/'
+languageCode: 'en-us'
+title: '3GCodes'
+theme: 'PaperMod'
+permalinks:
+  page:
+    posts: '/:slug/'
+params:
+  homeInfoParams:
+    Title: About
+    Content: My name is Gregg Bolinger, aka 3GCodes. I write about Java, Spring, Software Engineering, Leadership, and sometimes personal stuff.
+  socialIcons:
+    - name: "X"
+      url: "https://x.com/greggbolinger"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/gregg-bolinger-4150121/"
