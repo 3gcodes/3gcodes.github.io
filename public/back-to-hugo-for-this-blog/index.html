@@ -5,11 +5,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Posts | 3GCodes</title>
+<title>Back to Hugo for This Blog | 3GCodes</title>
 <meta name="keywords" content="">
-<meta name="description" content="Posts - 3GCodes">
+<meta name="description" content="The very first time I started blogging I used a Java based blogging platform called Pebble. If you look at it, you&rsquo;ll understand how long ago that was. Blogging had just become something people did and I had some level of success mostly due to the newness of it all. I was writing &ldquo;how-to&rdquo; articles and they seemed to resonate. At that time I was also heavily involved with CodeRanch, formally known as JavaRanch. So I would often take my answers there, and expound on them on my blog.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/posts/">
+<link rel="canonical" href="http://localhost:1313/back-to-hugo-for-this-blog/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.45e028aa8ce0961349adf411b013ee39406be2c0bc80d4ea3fc04555f7f4611a.css" integrity="sha256-ReAoqozglhNJrfQRsBPuOUBr4sC8gNTqP8BFVff0YRo=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -18,8 +18,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/posts/index.xml">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/back-to-hugo-for-this-blog/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,7 +58,7 @@
 </noscript>
 </head>
 
-<body class="list" id="top">
+<body class="" id="top">
 <script>
     if (localStorage.getItem("pref-theme") === "dark") {
         document.body.classList.add('dark');
@@ -102,24 +101,54 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header">
-  <h1>
-    Posts
-  </h1>
-</header>
+<main class="main">
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Testing Spring Data JDBC Repositories with Test Containers
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Recently, for a side project, I’ve gone through the motion of Spring Data JPA to JDBC and then found a middle-ground with Spring Data JDBC. I’ve come to loathe ORM’s but I don’t need to hand wire SQL statements into Row Mappers for basic CRUD operations. Spring Data JDBC seems to be as close to an ORM (it’s essentially a Row Mapper) as I want to get. Plus, I can always revert down to JDBC with JdbcTempate if I want.
-...</p>
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      Back to Hugo for This Blog
+    </h1>
+    <div class="post-meta"><span title='2024-01-11 16:11:31 -0600 CST'>January 11, 2024</span>&nbsp;·&nbsp;3 min
+
+</div>
+  </header> 
+<figure class="entry-cover">
+        <img loading="eager" src="http://localhost:1313/back-to-hugo-for-this-blog/hugo-logo-wide.svg" alt="">
+        
+</figure>
+  <div class="post-content"><p>The very first time I started blogging I used a Java based blogging platform called <a href="https://pebble.sourceforge.net/">Pebble</a>. If you look at it, you&rsquo;ll understand how long ago that was. Blogging had just become something people did and I had some level of success mostly due to the newness of it all. I was writing &ldquo;how-to&rdquo; articles and they seemed to resonate. At that time I was also heavily involved with <a href="https://www.coderanch.com">CodeRanch</a>, formally known as JavaRanch. So I would often take my answers there, and expound on them on my blog.</p>
+<p>Over the course of time I&rsquo;ve stopped and started blogging several times, eventually finding my way through Wordpress and then to static side generated platforms. My inconsistency over the last several years has been the meduim. Does anyone actually still want to consume the written format? Or is video media, like YouTube, the defacto.</p>
+<p>I&rsquo;ve come to a personal conviction now that I write better than I YouTube, if YouTube were a verb. As I started looking for the blogging platform I wanted to use I had a few requirements in mind:</p>
+<ul>
+<li>Dead simple to just write</li>
+<li>Light weight, fast</li>
+<li>Moderatly configurable</li>
+<li>Not Wordpress.</li>
+<li>Image support (you&rsquo;d be surprised how elusive this is)</li>
+</ul>
+<p>I had used <a href="https://gohugo.io/">Hugo</a> in the past. And while it (mostly) met all my requirements, I found myself fiddling with it too much instead of writing. So this time around I decided to try <a href="https://write.as/">Write.as</a>. I was pleased with it. I published my first article a few days ago and got some good traction on it. However, as I started looking into some customizations and features that I wanted to (eventually) add, it began to lose it&rsquo;s appeal.</p>
+<p>So today, as I&rsquo;m writing this in a Markdown file, I have moved back to Hugo. At the end of the day, for what I need it&rsquo;s just the perfect solution. As a coder, I can pretty much make it do anything I need. As a blogger, I can ignore all that and just write.</p>
+<p>I&rsquo;m using the <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a> theme which has some nice features like read time, cover images, TOC among others. And I love how simple and clean the site is. I want the focus to be on the articles and not much else. Honestly, the hardest part about getting this up today was using my custom domain with Github pages. Here&rsquo;s a list of what I had to do:</p>
+<ul>
+<li>Install hugo (well, I just needed to update it)</li>
+<li>Install my theme (git submodule)</li>
+<li>Update the hugo config</li>
+<li>Added a hugo github action config</li>
+<li>Copied my existing Write.as article into the site</li>
+<li>Pushed up to my github pages repo.</li>
+<li>Update nameservers for my domain</li>
+<li>Tell github to use said domain</li>
+</ul>
+<p>All in all, I think I spent a couple of hours getting things to where I felt like I could just write and not fiddle. Will I fiddle? Of course. But for now, I&rsquo;m writing and I hope this inspires someone else to just write. In a world of short attention spans, YouTube, Twitch and TikTok (for now), all of which are terrific platforms, I think the art of writing is worth upholding and I not only want more peoole to spend time in the written format but I want to consume more written format. <em>Especially human written.</em></p>
+
+
   </div>
-  <footer class="entry-footer"><span title='2024-01-09 14:11:31 -0600 CST'>January 9, 2024</span>&nbsp;·&nbsp;4 min</footer>
-  <a class="entry-link" aria-label="post link to Testing Spring Data JDBC Repositories with Test Containers" href="http://localhost:1313/testing-spring-data-jdbc-repositories-with-test-containers/"></a>
+
+  <footer class="post-footer">
+    <ul class="post-tags">
+    </ul>
+  </footer>
 </article>
     </main>
     
@@ -191,6 +220,53 @@
         }
     })
 
+</script>
+<script>
+    document.querySelectorAll('pre > code').forEach((codeblock) => {
+        const container = codeblock.parentNode.parentNode;
+
+        const copybutton = document.createElement('button');
+        copybutton.classList.add('copy-code');
+        copybutton.innerHTML = 'copy';
+
+        function copyingDone() {
+            copybutton.innerHTML = 'copied!';
+            setTimeout(() => {
+                copybutton.innerHTML = 'copy';
+            }, 2000);
+        }
+
+        copybutton.addEventListener('click', (cb) => {
+            if ('clipboard' in navigator) {
+                navigator.clipboard.writeText(codeblock.textContent);
+                copyingDone();
+                return;
+            }
+
+            const range = document.createRange();
+            range.selectNodeContents(codeblock);
+            const selection = window.getSelection();
+            selection.removeAllRanges();
+            selection.addRange(range);
+            try {
+                document.execCommand('copy');
+                copyingDone();
+            } catch (e) { };
+            selection.removeRange(range);
+        });
+
+        if (container.classList.contains("highlight")) {
+            container.appendChild(copybutton);
+        } else if (container.parentNode.firstChild == container) {
+            
+        } else if (codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.nodeName == "TABLE") {
+            
+            codeblock.parentNode.parentNode.parentNode.parentNode.parentNode.appendChild(copybutton);
+        } else {
+            
+            codeblock.parentNode.appendChild(copybutton);
+        }
+    });
 </script>
 </body>
 

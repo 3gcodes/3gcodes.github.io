@@ -6,9 +6,12 @@ permalinks:
   page:
     posts: '/:slug/'
 params:
+  ShowReadingTime: true
+  ShowToc: false
+  ShowCodeCopyButtons: true
   homeInfoParams:
     Title: About
-    Content: My name is Gregg Bolinger, aka 3GCodes. I write about Java, Spring, Software Engineering, Leadership, and sometimes personal stuff.
+    Content: My name is Gregg Bolinger, aka `3G`. I write about Java, Spring, Software Engineering, Leadership, and sometimes personal stuff like Board Games and OneWheels. Connect with me via social networks linked below.
   socialIcons:
     - name: "X"
       url: "https://x.com/greggbolinger"
