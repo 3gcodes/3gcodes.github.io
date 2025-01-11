@@ -7,7 +7,7 @@ title = 'Back to Hugo for This Blog'
 +++
 The very first time I started blogging I used a Java based blogging platform called [Pebble](https://pebble.sourceforge.net/). If you look at it, you'll understand how long ago that was. Blogging had just become something people did and I had some level of success mostly due to the newness of it all. I was writing "how-to" articles and they seemed to resonate. At that time I was also heavily involved with [CodeRanch](https://www.coderanch.com), formally known as JavaRanch. So I would often take my answers there, and expound on them on my blog.
 
-Over the course of time I've stopped and started blogging several times, eventually finding my way through Wordpress and then to static side generated platforms. My inconsistency over the last several years has been the meduim. Does anyone actually still want to consume the written format? Or is video media, like YouTube, the defacto.
+Over the course of time I've stopped and started blogging several times, eventually finding my way through Wordpress and then to static side generated platforms. My inconsistency over the last several years has been the medium. Does anyone actually still want to consume the written format? Or is video media, like YouTube, the defacto.
 
 I've come to a personal conviction now that I write better than I YouTube, if YouTube were a verb. As I started looking for the blogging platform I wanted to use I had a few requirements in mind:
 
