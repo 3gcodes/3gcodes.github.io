@@ -1,5 +1,5 @@
 +++
-date = '2024-01-09T14:11:31-06:00'
+date = '2025-01-09T14:11:31-06:00'
 draft = false
 title = 'Testing Spring Data JDBC Repositories with Test Containers'
 +++

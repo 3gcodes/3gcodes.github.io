@@ -6,21 +6,35 @@
     <description>Recent content on 3GCodes</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 11 Jan 2024 16:11:31 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 16:11:31 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Back to Hugo for This Blog</title>
       <link>http://localhost:1313/back-to-hugo-for-this-blog/</link>
-      <pubDate>Thu, 11 Jan 2024 16:11:31 -0600</pubDate>
+      <pubDate>Sat, 11 Jan 2025 16:11:31 -0600</pubDate>
       <guid>http://localhost:1313/back-to-hugo-for-this-blog/</guid>
       <description>&lt;p&gt;The very first time I started blogging I used a Java based blogging platform called &lt;a href=&#34;https://pebble.sourceforge.net/&#34;&gt;Pebble&lt;/a&gt;. If you look at it, you&amp;rsquo;ll understand how long ago that was. Blogging had just become something people did and I had some level of success mostly due to the newness of it all. I was writing &amp;ldquo;how-to&amp;rdquo; articles and they seemed to resonate. At that time I was also heavily involved with &lt;a href=&#34;https://www.coderanch.com&#34;&gt;CodeRanch&lt;/a&gt;, formally known as JavaRanch. So I would often take my answers there, and expound on them on my blog.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Testing Spring Data JDBC Repositories with Test Containers</title>
       <link>http://localhost:1313/testing-spring-data-jdbc-repositories-with-test-containers/</link>
-      <pubDate>Tue, 09 Jan 2024 14:11:31 -0600</pubDate>
+      <pubDate>Thu, 09 Jan 2025 14:11:31 -0600</pubDate>
       <guid>http://localhost:1313/testing-spring-data-jdbc-repositories-with-test-containers/</guid>
       <description>&lt;p&gt;Recently, for a side project, I&amp;rsquo;ve gone through the motion of Spring Data JPA to JDBC and then found a middle-ground with Spring Data JDBC. I&amp;rsquo;ve come to loathe ORM&amp;rsquo;s but I don&amp;rsquo;t need to hand wire SQL statements into Row Mappers for basic CRUD operations. Spring Data JDBC seems to be as close to an ORM (it&amp;rsquo;s essentially a Row Mapper) as I want to get. Plus, I can always revert down to JDBC with &lt;code&gt;JdbcTempate&lt;/code&gt; if I want.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What TODO After TODO</title>
+      <link>http://localhost:1313/what-todo-after-todo/</link>
+      <pubDate>Fri, 28 Jun 2024 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/what-todo-after-todo/</guid>
+      <description>The ToDo app. We&amp;rsquo;ve probably all written one. Likely for the same reasons. Either we were learning how to code for the first time or we were learning a new langauge/stack.</description>
+    </item>
+    <item>
+      <title>React Native AuthProvider</title>
+      <link>http://localhost:1313/react-native-authprovider/</link>
+      <pubDate>Wed, 26 Jun 2024 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/react-native-authprovider/</guid>
+      <description>There was a time when authentication was different in every single React Native application. Over time, the community / industry seems to have settled on a standard assuming no reliance on a third party library. Using a simple hook with context with some sort of secure storage mechanism for reloads is surprisngly simple and elegant.</description>
     </item>
   </channel>
 </rss>

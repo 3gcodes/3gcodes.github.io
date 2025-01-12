@@ -1,5 +1,5 @@
 +++
-date = '2024-01-11T16:11:31-06:00'
+date = '2025-01-11T16:11:31-06:00'
 draft = false
 title = 'Back to Hugo for This Blog'
 [cover]
