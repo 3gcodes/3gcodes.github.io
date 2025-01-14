@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Typescript on 3GCodes</title>
+    <link>http://localhost:1313/tags/typescript/</link>
+    <description>Recent content in Typescript on 3GCodes</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Jun 2024 16:11:31 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React Native AuthProvider</title>
+      <link>http://localhost:1313/react-native-authprovider/</link>
+      <pubDate>Wed, 26 Jun 2024 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/react-native-authprovider/</guid>
+      <description>There was a time when authentication was different in every single React Native application. Over time, the community / industry seems to have settled on a standard assuming no reliance on a third party library. Using a simple hook with context with some sort of secure storage mechanism for reloads is surprisngly simple and elegant.</description>
+    </item>
+  </channel>
+</rss>

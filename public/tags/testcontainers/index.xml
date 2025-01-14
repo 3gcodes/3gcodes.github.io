@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Testcontainers on 3GCodes</title>
+    <link>http://localhost:1313/tags/testcontainers/</link>
+    <description>Recent content in Testcontainers on 3GCodes</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Jan 2025 14:11:31 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/testcontainers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testing Spring Data JDBC Repositories with Test Containers</title>
+      <link>http://localhost:1313/testing-spring-data-jdbc-repositories-with-test-containers/</link>
+      <pubDate>Thu, 09 Jan 2025 14:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/testing-spring-data-jdbc-repositories-with-test-containers/</guid>
+      <description>&lt;p&gt;Recently, for a side project, I&amp;rsquo;ve gone through the motion of Spring Data JPA to JDBC and then found a middle-ground with Spring Data JDBC. I&amp;rsquo;ve come to loathe ORM&amp;rsquo;s but I don&amp;rsquo;t need to hand wire SQL statements into Row Mappers for basic CRUD operations. Spring Data JDBC seems to be as close to an ORM (it&amp;rsquo;s essentially a Row Mapper) as I want to get. Plus, I can always revert down to JDBC with &lt;code&gt;JdbcTempate&lt;/code&gt; if I want.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

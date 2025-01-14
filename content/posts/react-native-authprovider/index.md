@@ -3,9 +3,12 @@ date = '2024-06-26T16:11:31-06:00'
 draft = false
 title = 'React Native AuthProvider'
 summary = "There was a time when authentication was different in every single React Native application. Over time, the community / industry seems to have settled on a standard assuming no reliance on a third party library. Using a simple hook with context with some sort of secure storage mechanism for reloads is surprisngly simple and elegant."
+categories = ['tech']
+tags = ['reactnative', 'auth', 'javascript', 'typescript']
 [cover]
     image = 'cover.png'
 keywords = ["Typescript", "React Native", "Authentication"]
+tags = ["Typescript", "React Native", "Authentication"]
 +++
 
 

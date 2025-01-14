@@ -2,6 +2,8 @@
 date = '2025-01-09T14:11:31-06:00'
 draft = false
 title = 'Testing Spring Data JDBC Repositories with Test Containers'
+categories = ['tech']
+tags = ['spring', 'spring-boot', 'java', 'testcontainers', 'JDBC']
 +++
 
 Recently, for a side project, I've gone through the motion of Spring Data JPA to JDBC and then found a middle-ground with Spring Data JDBC. I've come to loathe ORM's but I don't need to hand wire SQL statements into Row Mappers for basic CRUD operations. Spring Data JDBC seems to be as close to an ORM (it's essentially a Row Mapper) as I want to get. Plus, I can always revert down to JDBC with `JdbcTempate` if I want.

@@ -5,7 +5,11 @@ theme: 'PaperMod'
 permalinks:
   page:
     posts: '/:slug/'
+taxonomies:
+  category: categories
+  tag: tags
 params:
+  ShowShareButtons: true
   ShowReadingTime: true
   ShowToc: false
   ShowCodeCopyButtons: true
@@ -17,3 +21,5 @@ params:
       url: "https://x.com/greggbolinger"
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/gregg-bolinger-4150121/"
+    - name: "Instagram"
+      url: "https://www.instagram.com/greggbolinger/"

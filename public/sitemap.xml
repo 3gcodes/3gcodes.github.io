@@ -3,13 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-01-09T14:11:31-06:00</lastmod>
+    <lastmod>2025-01-11T16:11:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/back-to-hugo-for-this-blog/</loc>
+    <lastmod>2025-01-11T16:11:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-01-09T14:11:31-06:00</lastmod>
+    <lastmod>2025-01-11T16:11:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/testing-spring-data-jdbc-repositories-with-test-containers/</loc>
-    <lastmod>2024-01-09T14:11:31-06:00</lastmod>
+    <lastmod>2025-01-09T14:11:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/what-todo-after-todo/</loc>
+    <lastmod>2024-06-28T16:11:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/react-native-authprovider/</loc>
+    <lastmod>2024-06-26T16:11:31-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

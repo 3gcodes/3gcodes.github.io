@@ -1,6 +1,8 @@
 +++
 date = '2025-01-11T16:11:31-06:00'
 draft = false
+categories = ['tech']
+tags = ['hugo', 'blog']
 title = 'Back to Hugo for This Blog'
 [cover]
     image = 'hugo-logo-wide.svg'
