@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spring-Modulith on 3GCodes</title>
+    <link>http://localhost:1313/tags/spring-modulith/</link>
+    <description>Recent content in Spring-Modulith on 3GCodes</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2025 00:01:01 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spring-modulith/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Modulith Part I: Up and Running</title>
+      <link>http://localhost:1313/spring-modulith-part-i-up-and-running/</link>
+      <pubDate>Tue, 14 Jan 2025 00:01:01 -0600</pubDate>
+      <guid>http://localhost:1313/spring-modulith-part-i-up-and-running/</guid>
+      <description>TODO</description>
+    </item>
+  </channel>
+</rss>

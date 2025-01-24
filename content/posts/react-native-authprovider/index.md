@@ -8,7 +8,6 @@ tags = ['reactnative', 'auth', 'javascript', 'typescript']
 [cover]
     image = 'cover.png'
 keywords = ["Typescript", "React Native", "Authentication"]
-tags = ["Typescript", "React Native", "Authentication"]
 +++
 
 

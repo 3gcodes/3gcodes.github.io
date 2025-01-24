@@ -6,6 +6,91 @@
     <description>Recent content in Tags on 3GCodes</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jan 2025 00:01:01 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring</title>
+      <link>http://localhost:1313/tags/spring/</link>
+      <pubDate>Tue, 14 Jan 2025 00:01:01 -0600</pubDate>
+      <guid>http://localhost:1313/tags/spring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring-Boot</title>
+      <link>http://localhost:1313/tags/spring-boot/</link>
+      <pubDate>Tue, 14 Jan 2025 00:01:01 -0600</pubDate>
+      <guid>http://localhost:1313/tags/spring-boot/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spring-Modulith</title>
+      <link>http://localhost:1313/tags/spring-modulith/</link>
+      <pubDate>Tue, 14 Jan 2025 00:01:01 -0600</pubDate>
+      <guid>http://localhost:1313/tags/spring-modulith/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://localhost:1313/tags/blog/</link>
+      <pubDate>Sat, 11 Jan 2025 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Sat, 11 Jan 2025 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Java</title>
+      <link>http://localhost:1313/tags/java/</link>
+      <pubDate>Thu, 09 Jan 2025 14:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/java/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>JDBC</title>
+      <link>http://localhost:1313/tags/jdbc/</link>
+      <pubDate>Thu, 09 Jan 2025 14:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/jdbc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Testcontainers</title>
+      <link>http://localhost:1313/tags/testcontainers/</link>
+      <pubDate>Thu, 09 Jan 2025 14:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/testcontainers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Auth</title>
+      <link>http://localhost:1313/tags/auth/</link>
+      <pubDate>Wed, 26 Jun 2024 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/auth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>http://localhost:1313/tags/javascript/</link>
+      <pubDate>Wed, 26 Jun 2024 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reactnative</title>
+      <link>http://localhost:1313/tags/reactnative/</link>
+      <pubDate>Wed, 26 Jun 2024 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/reactnative/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typescript</title>
+      <link>http://localhost:1313/tags/typescript/</link>
+      <pubDate>Wed, 26 Jun 2024 16:11:31 -0600</pubDate>
+      <guid>http://localhost:1313/tags/typescript/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
