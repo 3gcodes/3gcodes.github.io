@@ -118,6 +118,23 @@ There are a few key points to call out here.
 
 ### Wire up the Filter into the Security Config
 
+Adjust your Security Config class. You'll need a bean for the `JwtCookieFilter`:
+
+```java
+@Bean
+JwtCookieFilter jwtCookieFilter() {
+    return new JwtCookieFilter(rsaKeyProperties);
+}
+```
+
+My `RsaKeyProperties` looks like this:
+
+```java
+@ConfigurationProperties(prefix = "rsa")
+public record RsaKeyProperties(RSAPublicKey publicKey, RSAPrivateKey privateKey) {
+}
+```
+
 In your Security Config class, where you have a `securityFilterChain` method, add the following to the `HttpSecurity` object.
 
 ```java
