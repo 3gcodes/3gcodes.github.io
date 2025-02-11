@@ -133,9 +133,3 @@ package com.example.demo.organization;
 Run your test again, all should be happy, green, and passing. Now, as you flesh out more of your application flow and logic, when you run your tests, you'll know if you've broken any module boundaries. 
 
 I'm going to stop here for this article. In the next article, I'll add a bit more meat like Spring Data and Docker Compose Support so we can begin to see something a bit more realistic and how we might be able to avoid the `Organization -> Project` hard wired coupling.
-
-
-
-
-
-

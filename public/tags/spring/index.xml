@@ -6,14 +6,14 @@
     <description>Recent content in Spring on 3GCodes</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 Jan 2025 00:01:01 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:01:01 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/spring/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Spring Modulith Part I: Up and Running</title>
       <link>http://localhost:1313/spring-modulith-part-i-up-and-running/</link>
-      <pubDate>Tue, 14 Jan 2025 00:01:01 -0600</pubDate>
+      <pubDate>Fri, 24 Jan 2025 00:01:01 -0600</pubDate>
       <guid>http://localhost:1313/spring-modulith-part-i-up-and-running/</guid>
-      <description>TODO</description>
+      <description>What if you could work in a monolith project while making it easier in the future to pull out modules into their own services? What if you had a way to know that you&amp;rsquo;ve too tightly coupled components together? Enter Spring Modulith</description>
     </item>
     <item>
       <title>Testing Spring Data JDBC Repositories with Test Containers</title>

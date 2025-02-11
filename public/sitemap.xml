@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/spring/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/spring-modulith-part-i-up-and-running/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/spring-boot/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/spring-modulith/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/tech/</loc>
-    <lastmod>2025-01-14T00:01:01-06:00</lastmod>
+    <lastmod>2025-01-24T00:01:01-06:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/back-to-hugo-for-this-blog/</loc>
     <lastmod>2025-01-11T16:11:31-06:00</lastmod>
@@ -67,5 +67,7 @@
   </url><url>
     <loc>http://localhost:1313/tags/typescript/</loc>
     <lastmod>2024-06-26T16:11:31-06:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
   </url>
 </urlset>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Spring-Security on 3GCodes</title>
+    <link>http://localhost:1313/tags/spring-security/</link>
+    <description>Recent content in Spring-Security on 3GCodes</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:01:01 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/spring-security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JWT Cookie Auth with Spring Security</title>
+      <link>http://localhost:1313/jwt-cookie-auth-with-spring-security/</link>
+      <pubDate>Mon, 10 Feb 2025 00:01:01 -0600</pubDate>
+      <guid>http://localhost:1313/jwt-cookie-auth-with-spring-security/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working on a Board Game Collection side project. The backend is Spring Boot with a Neo4J database. Mostly, I use this project as a learning tool as well as for personal use. I built a small mobile app as the client in Flutter but over time realized native mobile was unnecessary. So as another learning opportunity I&amp;rsquo;ve been bouncing back and forth between using JTE with HTMX as well as learning Svelte.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
